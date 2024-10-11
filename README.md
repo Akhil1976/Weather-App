@@ -16,3 +16,8 @@ Akhil Perakam
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: Fetches data from a weather API
 - **Development Tools**: Browser DevTools, Postman
+
+- ## This are some Outputs of the Project:
+![image](45.png)
+![image](46.png)
+
